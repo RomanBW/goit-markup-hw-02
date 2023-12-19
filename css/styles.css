@@ -96,6 +96,7 @@ span {
 .main-button:hover,
 .main-button:focus {
   background-color: #404bbf;
+  font-family: "Roboto", sans-serif;
 }
 
 .section-main-dark {
@@ -113,6 +114,36 @@ span {
 }
 .main-principles-parah {
   color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.section-team-title {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.section-title-name {
+  color: #2e2f42;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.section-title-content {
+  color: #434455;
+  text-align: center;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
