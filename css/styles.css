@@ -79,3 +79,20 @@ span {
 .header-adress {
   font-style: normal;
 }
+.main-principles {
+  background-color: #2e2f42;
+}
+.main-button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+.main-button:hover,
+.main-button:focus {
+  background-color: #404bbf;
+}
