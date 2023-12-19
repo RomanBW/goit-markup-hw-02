@@ -13,9 +13,17 @@ header {
   height: 72px;
   border: 1px;
 }
-.header-logo,
-.header-logo-end {
+.header-logo {
   color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.header-logo-span {
+  color: var(--NAVY-BLUE, #2e2f42);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
