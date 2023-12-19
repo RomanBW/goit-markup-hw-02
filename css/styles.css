@@ -37,8 +37,8 @@ span {
   align-items: flex-start;
   gap: 40px;
 }
-.header-link:hover,
-.header-link:focus {
+.header-item:hover,
+.header-item:focus {
   color: #404bbf;
 }
 .header-item {
@@ -75,4 +75,7 @@ span {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+}
+.header-adress {
+  font-style: normal;
 }
