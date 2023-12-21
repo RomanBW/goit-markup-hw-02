@@ -68,6 +68,13 @@ span {
   letter-spacing: 0.02em;
 }
 
+.mailto-info:hover,
+.mailto-info:focus,
+.mailto-tel:hover,
+.mailto-tel:focus {
+  color: #404bbf;
+}
+
 .header-title {
   color: #fff;
   text-align: center;
