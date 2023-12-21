@@ -48,7 +48,9 @@ span {
   color: #404bbf;
 }
 
-.mailto-info {
+/*++++++++++++ADDRESS++++++++++++++*/
+
+.adress-info {
   color: #434455;
   font-family: Roboto;
   font-size: 16px;
@@ -58,7 +60,7 @@ span {
   letter-spacing: 0.02em;
 }
 
-.mailto-tel {
+.adress-info {
   color: #434455;
   font-family: Roboto;
   font-size: 16px;
