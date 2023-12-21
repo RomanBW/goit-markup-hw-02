@@ -225,6 +225,9 @@ span {
 /**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /**------------------------FOOTER----------------------------*/
 
+.footer {
+  background-color: #2e2f42;
+}
 .footer-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -235,9 +238,10 @@ span {
   text-transform: uppercase;
 }
 .footer-logo-span {
-  color: #2e2f42;
-  font-family: "Raleway", sans-serif;
+  color: #f4f4fd;
+  font-family: Raleway;
   font-size: 18px;
+  font-style: normal;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -251,5 +255,4 @@ span {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  background-color: #2e2f42;
 }
