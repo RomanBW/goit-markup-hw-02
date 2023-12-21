@@ -1,5 +1,15 @@
 body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
 }
+
+/**!=========================================================*/
 
 /**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /**------------------------HEADER----------------------------*/
@@ -71,6 +81,7 @@ span {
 .header-adress {
   font-style: normal;
 }
+/**!=========================================================*/
 
 /**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /**------------------------MAIN----------------------------*/
@@ -185,19 +196,66 @@ span {
 }
 
 .portfolio-name {
-  color: rgb(212, 10, 10);
+  color: #2e2f42;
   text-align: center;
+  font-family: Roboto;
   font-size: 36px;
-  font-style: normal;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 .portfolio-link {
 }
 .portfolio-item {
 }
 .portfolio-title {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .portfolio-text {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02;
+}
+
+/**!=========================================================*/
+
+/**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/**------------------------FOOTER----------------------------*/
+
+.footer-logo {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.footer-logo-span {
+  color: #2e2f42;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.footer-text {
+  color: #f4f4fd;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  background-color: #2e2f42;
 }
