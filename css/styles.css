@@ -192,9 +192,6 @@ span {
 /**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /**------------------------TEAM----------------------------*/
 
-.section-portfolio {
-}
-
 .portfolio-name {
   color: #2e2f42;
   text-align: center;
@@ -205,10 +202,7 @@ span {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.portfolio-link {
-}
-.portfolio-item {
-}
+
 .portfolio-title {
   color: #2e2f42;
   font-family: Roboto;
